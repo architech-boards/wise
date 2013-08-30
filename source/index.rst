@@ -24,7 +24,7 @@ Welcome to Wise Board by Silica Architech's documentation!
 | a - Evaluate network with simple serial monitor (using a PC terminal such as HyperTerminal)
 | b - Program Firmware into JN5168 module (using JN-SW-4007-Flash-Programmer v1.8.9)
 
-*If you want, you can use separate USB-TTL adapter connected with 6 pin strip on RSR933 board. In this case, you can have two separate serial channel, first (USBdongle) for programming and second (6 pin strip) for Serial Monitor. See* :ref:`serial`
+*If you want, you can use separate USB-TTL adapter connected with 6 pin strip on Wise board. In this case, you can have two separate serial channel, first (USBdongle) for programming and second (6 pin strip) for Serial Monitor. See* :ref:`serial`
 
 Wise board is also designed as a plugin for SerizII board. **Wise "ready to run" kit** is specially designed for quick use and fast evaluate  network functionallity. All you have to do is plug End-Node on SerizII board, plug Coordinator on PC USB port, start HyperTerminal and enjoy!!
 
