@@ -62,6 +62,11 @@ Wise board has in bottom layer two strip (6 an 4 way) and can be used as a plugi
 
 .. image:: _jn_photo/seriz_wise.jpg
 
+.. important::
+
+ Before using Wise boards as SerizII plugin, you must download and install the proper firmware revision of the SerizII board (**SerizWise.zip**). For all instruction and information about, see at `Silica SerizII <http://www.silica.com/seriz2>`_ 
+
+
 **Take care plugging Wise on SerizII: be shure that both boards (Wise and SerizII) are power off before!!**
 
 .. _hyper:
@@ -181,6 +186,8 @@ Programming Wise Board with Flash GUI Tool
 | 4) Check "Automatic Program and Reset" checkbox (brown arrow)
 
 .. image:: _jn_images/flash_2.jpg
+
+.. note:: **Take care at COM port: if it's already busy with other applications (such as HyperTerminal), you cannot find it in COM port dropdown menu of Flash GUI Tool**
 
 - **Step 2**: click "Browse" button red circled, navigate to **C:\\Jennic\\Application\\Wise_Jennic\\Wise_Coord\\Build** and select bin file **"Wise_Coord_JN5168.bin"**. Then click "Open" button.
 

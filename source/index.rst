@@ -28,6 +28,13 @@ Welcome to Wise Board by Silica Architech's documentation!
 
 Wise board is also designed as a plugin for SerizII board. **Wise "ready to run" kit** is specially designed for quick use and fast evaluate  network functionallity. All you have to do is plug End-Node on SerizII board, plug Coordinator on PC USB port, start HyperTerminal and enjoy!!
 
+With Wise board you can evaluate the performance of new NXP SENS300/01 device. The SEN300/01 integrates one high-accuracy temperature sensor, four relative humidity
+sensors, six light sensors, a user-writable non-volatile memory and a 10-bit
+analog-to-digital converter. Wise application reads out basic data from temperature, humidity and light sensors. For more information about this sensor, see at NXP official site `NXP official site <http://www.nxp.com/>`_ 
+
+Wise board integrates a NTAG203F, NFC Forum Type 2 Tag compliant IC with 144 bytes user
+memory and field detection. This device is used on SerizII labs. See at official documentation page of NXP site `NTAG203F <http://www.nxp.com/search?q=ntag203f&type=typenumber&rows=10>`_ 
+
 | Firmware application was developed with JN-SW-4041-SDK-Toolchain-v.1.1 (Eclipse based). 
 | You must also install JN-SW-4065-JN516x-JenNet-IP-SDK-v857 software library. 
 | Firmware project is included in Wise_Jennic.zip file.

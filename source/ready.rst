@@ -8,6 +8,10 @@ We can find two Wise board, first one as Coordinator and second as End-Node.
 
 .. image:: _jn_photo/seriz_coord.jpg
 
+.. important::
+
+ **Before using Wise Boards as a SerizII plugin, read note inside 'important' box on chapter** :ref:`seriz`
+
 Working with Wise board
 -----------------------
 
